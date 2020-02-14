@@ -1,0 +1,14 @@
+/* default rules */
+/* default text
+default margins
+default padding
+default font size */
+
+  
+* {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+
